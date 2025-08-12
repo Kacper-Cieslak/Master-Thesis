@@ -8,11 +8,13 @@ The theoretical part of the thesis covered the essence and theories of money as 
 To verify the research hypothesis, a VAR model was developed, which simply reflected the monetary transmission mechanism. The study demonstrated that the reference rate and the EUR/PLN exchange rate had a significant impact on the CPI inflation rate in 2004–2024.
 
 ### Key ilustrations
-Rysunek 3.7. Stopa referencyjna, inflacja CPI oraz bazowa z wyłączeniem cen energii, żywności w stosunku do analogicznego miesiąca rok wcześniej w latach 2004-2024 (w %)
-<img width="456" height="331" alt="image" src="https://github.com/user-attachments/assets/7f1d5436-d103-43b5-a608-f518f65970ea" />
+<img width="646" height="532" alt="image" src="https://github.com/user-attachments/assets/f3551e61-6fb7-4a2b-8583-f653b87110e5" />
 
-Pieniądz M3 oraz inflacja CPI skumulowana w Polsce w latach 2004-2024 (zmienne standaryzowane)
-<img width="455" height="284" alt="image" src="https://github.com/user-attachments/assets/0393d9b8-4d9e-4a38-a3bd-d2ccb70041d7" />
+<img width="649" height="447" alt="image" src="https://github.com/user-attachments/assets/ef5922c0-945c-451a-80f9-b24b65cfc94a" />
+
+
+
+
 
 
 
